@@ -1,42 +1,47 @@
 <div align = "center">
   </br> </br>
   <h1>
-    Welcome People 👋
+    👋Welcome to FSN Cryo's Profile👋
   </h1>
   
   <h3>
-    - - | Things Iv'e Done | - -
+   | Things Iv'e Done |
   </h3>
   <p>
-        Two Way Moorse Code Translator</br>
-        No Name (Discord Bot)</br>
+        </br>
+        
+         Two Way Moorse Code Translator
+         No Name (Discord Bot)
 
   <h3>
-    - - | Projects Contributed | - -
+        | Contributions |
   </h3>
   <p>
-    - | https://github.com/adamclement-exe/pokemonDashboard | -
+  
+  </br>
+  
+    https://github.com/adamclement-exe/pokemonDashboard
   </p>
   
   <h3>
-      About Me
+      | About Me |
   </h3> 
   <p>
     </br>
     
-    Languages:</br>
-    - Python | 9/10</br>
-    - C# | 4/10</br>
-    - Java | 2/10</br>
+    Languages:
+    - Python | 9/10
+    - C# | 4/10
+    - Java | 2/10
     
-    Technologies:</br>
-    - Py | Discord API | 9/10</br>
-    - Py | TKinter | 9/10</br>
+    Technologies:
+    - Py | Discord API | 9/10
+    - Py | TKinter | 9/10
     
-    IDE's That I Use:</br>
-    - JetBrains - Py Charm</br>
-    - JetBrains - Rider</br>
-    - JetBrains - WebStorm</br>
+    IDE's That I Use:
+    - JetBrains - Py Charm
+    - JetBrains - Rider
+    - JetBrains - WebStorm
     
   </p>
   
@@ -44,6 +49,8 @@
     | How To Contact Me |
   </h3>
   <h4>
+  </br>
+  
     Email: cameron.phillips.clp@gmail.com
   </h4>
   
