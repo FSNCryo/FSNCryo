@@ -45,15 +45,6 @@
     
   </p>
   
-  <h3>
-    | How To Contact Me |
-  </h3>
-  <h4>
-  </br>
-  
-    Email: cameron.phillips.clp@gmail.com
-  </h4>
-  
   
 
   
