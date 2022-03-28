@@ -40,6 +40,7 @@
     - Java | JavaFx      | 6/10
     
     IDE's That I Use:
+    - JetBrains - IntelliJ
     - JetBrains - Py Charm
     - JetBrains - Rider
     - JetBrains - WebStorm
