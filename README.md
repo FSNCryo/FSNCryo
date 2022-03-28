@@ -30,13 +30,14 @@
     </br>
     
     Languages:
-    - Python | 9/10
+    - Python | 7/10
     - C# | 4/10
-    - Java | 2/10
+    - Java | 9/10
     
     Technologies:
-    - Py | Discord API | 9/10
-    - Py | TKinter | 9/10
+    - Py   | Discord API | 9/10
+    - Py   | TKinter     | 8/10
+    - Java | JavaFx      | 6/10
     
     IDE's That I Use:
     - JetBrains - Py Charm
